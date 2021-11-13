@@ -129,6 +129,8 @@ https://www.w3schools.com/jquERy/jquery_ref_ajax.asp
 
 https://www.w3schools.com/jquERy/ajax_ajax.asp
 
+https://fakerestapi.azurewebsites.net/index.html
+
 $.ajax()
 
 
